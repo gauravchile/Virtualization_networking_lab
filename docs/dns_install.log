@@ -1,0 +1,7 @@
+[*] Setting up DNS Server...
+Synchronizing state of named.service with SysV service script with /usr/lib/systemd/systemd-sysv-install.
+Executing: /usr/lib/systemd/systemd-sysv-install enable named
+[+] DNS server configured!
+[*] Testing DNS server...
+142.250.70.46
+[+] DNS test OK

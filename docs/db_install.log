@@ -1,0 +1,8 @@
+[*] Setting up Database Server...
+[+] DB server configured!
+[*] Testing DB server...
+labdb
+[+] DB test OK
+Synchronizing state of mysql.service with SysV service script with /usr/lib/systemd/systemd-sysv-install.
+Executing: /usr/lib/systemd/systemd-sysv-install enable mysql
+mysql: [Warning] Using a password on the command line interface can be insecure.
